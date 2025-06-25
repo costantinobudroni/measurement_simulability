@@ -13,4 +13,4 @@ First, make sure you have the following Python packages installed:
 - `joblib`: for parallelization
 
 ### Optimization
-To run the optimization, choose the parameter Ngrid to fix the number of grid points in every direction.
+To run the optimization, first choose the parameter Ngrid in sim_2_grid_sdp.py to fix the number of grid points in every direction.
