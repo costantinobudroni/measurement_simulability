@@ -3,7 +3,7 @@ This code computes the minimum distance between a measurement assemblage M^eta, 
 
 
 
-## Usage Guide for Boxworld Process Optimization Package
+## Usage Guide for Measurement Simulability Package
 
 To use this package, follow these steps:
 
